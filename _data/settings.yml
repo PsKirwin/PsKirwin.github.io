@@ -1,12 +1,10 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
-
 social:
 - {icon: 'github', link: 'https://github.com/pSKirwin'}
 - {icon: 'instagram', link: 'https://instagram.com/phillip.kirwin'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/phillip-kirwin/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Phillip Suwan Kirwin', title: 'MASc Student', department: 'Electrical and Computer Engineering', institution: 'University of British Columbia', institution_address: 'Vancouver, Canada', email: 'pkirwin(at)ece(dot)ubc(dot)ca'}

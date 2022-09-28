@@ -5,6 +5,3 @@ social:
 - {icon: 'github', link: 'https://github.com/pSKirwin'}
 - {icon: 'instagram', link: 'https://instagram.com/phillip.kirwin'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/phillip-kirwin/'}
-
-contacts:
-- {name: 'Phillip Suwan Kirwin', title: 'MASc Student', department: 'Electrical and Computer Engineering', institution: 'University of British Columbia', institution_address: 'Vancouver, Canada', email: 'pkirwin(at)ece(dot)ubc(dot)ca'}

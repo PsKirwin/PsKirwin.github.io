@@ -1,6 +1,6 @@
 menu:
 - {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/assets/pdf/cv.pdf'}
 social:
 - {icon: 'github', link: 'https://github.com/pSKirwin'}
 - {icon: 'instagram', link: 'https://instagram.com/phillip.kirwin'}

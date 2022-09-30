@@ -11,5 +11,5 @@ title: publications
 
 
 ## Conference Proceedings
-[C1]	K. G. Scheuer, **P. S. Kirwin**, R. G. DeCorby, "Coupling emission from strained hexagonal boron nitride thin films to monolithic integrated cavities," presented at Quantum Information and Measurement VI, Washington, DC, USA, Nov. 1-5, 2021, Paper Th4B.3, [doi.org/10.1364/QIM.2021.Th4B.3](https://doi.org/10.1364/QIM.2021.Th4B.3).
+[C1]	K. G. Scheuer, **P. S. Kirwin**, R. G. DeCorby, "Coupling emission from strained hexagonal boron nitride thin films to monolithic integrated cavities," presented at Quantum Information and Measurement VI, Washington, DC, USA, Paper Th4B.3, Nov. 1-5, 2021, [doi.org/10.1364/QIM.2021.Th4B.3](https://doi.org/10.1364/QIM.2021.Th4B.3).
 
